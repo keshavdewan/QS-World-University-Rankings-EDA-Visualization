@@ -13,3 +13,4 @@ QS designed its rankings to assess performance according to what it believes to 
 
 -[Kaggle Data & Inspiration](https://www.kaggle.com/datasets/padhmam/qs-world-university-rankings-2017-2022)
 -[Tableau visualization](https://public.tableau.com/app/profile/keshav.dewan3649/viz/QSWorldUniversityRankings_16596090430810/QSWorldUniversityRanking)
+-[Power BI Dashboard Summary] (https://app.powerbi.com/links/HaGXen5vu2?ctid=d5b7f36a-0259-433e-ba3d-6f3f711d03bc&pbi_source=linkShare)
